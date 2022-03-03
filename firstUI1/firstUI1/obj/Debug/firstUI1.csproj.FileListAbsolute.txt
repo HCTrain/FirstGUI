@@ -1,0 +1,11 @@
+M:\HNC\1161 Software Development\firstUI1\firstUI1\bin\Debug\firstUI1.exe.config
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\bin\Debug\firstUI1.exe.config
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\bin\Debug\firstUI1.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\bin\Debug\firstUI1.pdb
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.Form1.resources
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.Properties.Resources.resources
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.csproj.GenerateResource.Cache
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.exe
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.pdb
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.csprojAssemblyReference.cache
+\\ECFLE41\STU-Ms-A-M$\SEPT-2017\X-SITE\H\HANNAHCOURTIERTRAIN\HNC\1161 Software Development\firstUI1\firstUI1\obj\Debug\firstUI1.csproj.CoreCompileInputs.cache
